@@ -1,6 +1,6 @@
 (ns kotoba.car-sim.scene
   "Garage + ground-map + demo-circuit ASSEMBLY — the pure config-selection
-  layer of `kami-app-car-sim`'s public demo (`driver.etzhayyim.com`),
+  layer of `kami-app-car-sim`'s public demo (`driver.itonami.app`),
   ported per ADR-2607010000. This is the direct analogue of the Rust
   `run_car_sim` boot sequence (`src/lib.rs`) minus everything that isn't
   pure config selection: no wgpu pipeline construction, no JS-global

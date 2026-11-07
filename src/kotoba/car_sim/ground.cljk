@@ -1,6 +1,6 @@
 (ns kotoba.car-sim.ground
   "Ground surface table + multi-zone surface map — ported from
-  `kami-app-car-sim`'s public demo (`driver.etzhayyim.com`) and the shared
+  `kami-app-car-sim`'s public demo (`driver.itonami.app`) and the shared
   `kami-vehicle-scene/data/ground.edn` CONFIG (ADR-2607010000: hot physics
   stays out of scope here, only the init-time surface/grip DATA and the
   pure `surface-at` zone lookup move to `.cljc`).

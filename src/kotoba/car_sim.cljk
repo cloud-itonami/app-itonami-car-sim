@@ -1,5 +1,5 @@
 (ns kotoba.car-sim
-  "KAMI car-sim — public soft-body vehicle demo (`driver.etzhayyim.com`),
+  "KAMI car-sim — public soft-body vehicle demo (`driver.itonami.app`),
   domain layer ported from the Rust `kami-app-car-sim` crate
   (ADR-2607010000: kami-engine's Rust game-engine workspace is being
   retired in favour of pure Clojure `.cljc` authority repos).

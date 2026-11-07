@@ -5,7 +5,7 @@
 **KAMI car-sim domain layer, in pure Clojure.** A
 [kotoba-lang](https://github.com/kotoba-lang) port (ADR-2607010000) of the
 Rust `kami-app-car-sim` crate — the public BeamNG-grade soft-body vehicle
-demo at [driver.etzhayyim.com](https://driver.etzhayyim.com) (~80 mass
+demo at [driver.itonami.app](https://driver.itonami.app) (~80 mass
 nodes / ~220 beams, Pacejka tire model, full powertrain).
 
 No network, no I/O. Portable `.cljc` across JVM / ClojureScript / SCI /
